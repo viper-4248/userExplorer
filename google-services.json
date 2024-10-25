@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309485922004",
+    "project_id": "fcmtestrechargeexchange",
+    "storage_bucket": "fcmtestrechargeexchange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309485922004:android:5ab4d6851da793fef67d41",
+        "android_client_info": {
+          "package_name": "com.viperstrikesoon.rechargeExchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6KhkpXWfRJ8GwOU0TZyFrc90jRSvPF3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
